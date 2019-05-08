@@ -1,4 +1,6 @@
-name=input('请输入你的名字：'\n)
+import time
+name=input('请输入你的名字：')
 print(name+'welcome to github'+'!')
 time.sleep(1)
 print('Hello world!')
+time.sleep(2)
